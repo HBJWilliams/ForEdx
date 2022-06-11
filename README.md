@@ -5,4 +5,4 @@ Hope this helps.
 
 
 # For DA1010EN
-**FinalProjectDA0101EN.pdf** is the file that you need to review. The file is in pdf form for your convenience.
+**FinalProjectDA0101EN.pdf** is the file that you need to review. The file is in pdf form for your convenience. You can also view the same file in as a `.py`  or a  `.ipynb` if you prefer.
